@@ -12,9 +12,18 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/react-native-vector-icons": "^6.4.9",
+    "faker": "^5.5.3",
+    "native-base": "^3.2.1",
     "react": "17.0.2",
     "react-native": "0.66.2",
-    "react-native-web": "^0.17.5"
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-web": "^0.17.5",
+    "styled-components": "^5.3.3",
+    "styled-system": "^5.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
